@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dheeraj pratap Singh</h1>
 <h3 align="center">A passionate software enginer from India</h3>
 
-<img align="right" alt="coding" width="400" src=""
+src="![git hum code imgs](https://github.com/dheerajsingh639/desktop-tutorial/assets/153655751/6541a68f-7d02-40f0-a668-a5bca1b36cc4)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajsingh639&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajsingh639" /> </p>
 
