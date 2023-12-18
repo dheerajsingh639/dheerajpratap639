@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dheeraj prtap Singh</h1>
+<h1 align="center">Hi 👋, I'm Dheeraj pratap Singh</h1>
 <h3 align="center">A passionate software enginer from India</h3>
 
 <img align="right" alt="coding" width="400" src=""
