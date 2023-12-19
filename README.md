@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Dheeraj pratap Singh</h1>
-<h3 align="center">A passionate software enginer from India</h3>
+<h2> Hey there! I'm Dheeraj Pratap Singh. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-src="![git hum code imgs](https://github.com/dheerajsingh639/desktop-tutorial/assets/153655751/6541a68f-7d02-40f0-a668-a5bca1b36cc4)
-"
+<h3> 👨🏻‍💻 About Me </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajsingh639&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajsingh639" /> </p>
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying BCA, Bachalors of Computer Application.
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-- ⚡ Fun fact **I am funny**
+<h3>🛠 Tech Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 💻 &nbsp; C++  
+- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Photoshop
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajsingh639&show_icons=true&locale=en&layout=compact" alt="dheerajsingh639" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajsingh639&show_icons=true&locale=en" alt="dheerajsingh639" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsingh639&" alt="dheerajsingh639" /></p>
+⭐️ From [devSouvik](https://github.com/devSouvik)
