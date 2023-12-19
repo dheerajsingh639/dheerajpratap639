@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Dheeraj Pratap Singh. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -12,7 +12,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++  
-- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap
+- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Photoshop
@@ -36,3 +37,7 @@
 </p>
 
 ⭐️ From 
+
+#### **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
+
