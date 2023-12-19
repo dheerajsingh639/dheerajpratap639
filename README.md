@@ -36,8 +36,8 @@
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From 
+⭐️ From [dheerajpratap639]
 
 #### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{dheerajpratap639}/count.svg)
 
