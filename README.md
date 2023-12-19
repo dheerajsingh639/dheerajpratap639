@@ -18,6 +18,7 @@
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Photoshop
 
+**Need help getting started with Foundry? Read the [📖 Foundry Book][foundry-book] (WIP)!**
 Time to somthing code
 ![Demo](.github/demo.gif)
 
